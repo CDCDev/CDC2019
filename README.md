@@ -2,7 +2,7 @@
 &nbsp;
 
 #### Event Details
-📅 Oct 4-5, 2019&nbsp;
+📅 Oct 4-5, 2019</br>
 📍 Punta Cana, Dominican Republic
 
 &nbsp;
