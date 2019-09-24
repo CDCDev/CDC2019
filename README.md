@@ -1,8 +1,10 @@
 ![](https://raw.githubusercontent.com/CDCDev/CDC2019/master/logos/CDC_logo_light_bg.png)
 &nbsp;
+
 #### Event Details
-📅 Oct 4-5, 2019
+📅 Oct 4-5, 2019&nbsp;
 📍 Punta Cana, Dominican Republic
+
 &nbsp;
 
 #### Website
