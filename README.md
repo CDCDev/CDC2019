@@ -5,12 +5,8 @@
 📅 Oct 4-5, 2019</br>
 📍 Punta Cana, Dominican Republic
 
-&nbsp;
-
 ### 📸 Media 
 - [Media Repository](https://github.com/CDCDev/CDC2019-Media)
-
-&nbsp;
 
 #### 🌎 Website
 - https://cdc.dev/
