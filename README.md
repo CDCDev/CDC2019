@@ -1,8 +1,10 @@
 ![](https://raw.githubusercontent.com/CDCDev/CDC2019/master/logos/CDC_logo_light_bg.png)
 &nbsp;
 
-## 📅 Oct 4-5, 2019</br>
-### 📍 Punta Cana, Dominican Republic
+## Caribbean Developers Conference 2019
+
+#### 📅 Oct 4-5, 2019</br>
+#### 📍 Punta Cana, Dominican Republic
 
 #### 📸 Media 
 - [Media Repository](https://github.com/CDCDev/CDC2019-Media)
