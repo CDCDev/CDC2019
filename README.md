@@ -12,10 +12,10 @@
 
 &nbsp;
 
-#### Website
-🌎 https://cdc.dev/
+#### 🌎 Website
+- https://cdc.dev/
 
-#### Social Media
+#### ⌨ Social Media
 - [Twitter](https://twitter.com/caribbeandevcon)
 - [Facebook](https://www.facebook.com/caribbeandevcon/)
 - [Instagram](https://www.instagram.com/caribbeandevcon/)
