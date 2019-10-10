@@ -7,7 +7,7 @@
 #### 📍 Punta Cana, Dominican Republic
 
 #### 📸 Media 
-- [Media Repository](https://github.com/CDCDev/CDC2019-Media)
+- TBD
 
 #### 🌎 Website
 - https://cdc.dev/
